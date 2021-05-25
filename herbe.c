@@ -9,7 +9,7 @@
 #include <fcntl.h>
 #include <semaphore.h>
 
-#include "config.h"
+#include "config.def.h"
 
 #define EXIT_ACTION 0
 #define EXIT_FAIL 1
